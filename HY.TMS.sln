@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HY.TMS.MVC", "HY.TMS.MVC\HY.TMS.MVC.csproj", "{BDE9C567-68EF-4837-9583-5429AA1654FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HY.TMS.WebApi.Tests", "HY.TMS.WebApi.Tests\HY.TMS.WebApi.Tests.csproj", "{14E2AA1D-1ECD-4D13-BBBF-47D7C5873BBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HY.TMS.Service", "HY.TMS.Service\HY.TMS.Service.csproj", "{C2A5808E-A4CD-4FB8-9023-96EE8EDF3E65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HY.TMS.Model", "HY.TMS.Model\HY.TMS.Model.csproj", "{9A732E50-1AA8-4D09-AB8E-68B82F74330B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HY.TMS.ORM", "HY.TMS.ORM\HY.TMS.ORM.csproj", "{F4062DA0-6CA8-4E14-AABD-ECB321544270}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HY.TMS.WebApi", "HY.TMS.WebApi\HY.TMS.WebApi.csproj", "{434C6897-FAE8-4773-A185-36F25669412B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HY.TMS.Common", "HY.TMS.Common\HY.TMS.Common.csproj", "{AFE86F7A-838B-4C31-81C4-6CF4D88D453F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDE9C567-68EF-4837-9583-5429AA1654FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDE9C567-68EF-4837-9583-5429AA1654FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDE9C567-68EF-4837-9583-5429AA1654FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDE9C567-68EF-4837-9583-5429AA1654FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14E2AA1D-1ECD-4D13-BBBF-47D7C5873BBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14E2AA1D-1ECD-4D13-BBBF-47D7C5873BBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14E2AA1D-1ECD-4D13-BBBF-47D7C5873BBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14E2AA1D-1ECD-4D13-BBBF-47D7C5873BBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2A5808E-A4CD-4FB8-9023-96EE8EDF3E65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2A5808E-A4CD-4FB8-9023-96EE8EDF3E65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2A5808E-A4CD-4FB8-9023-96EE8EDF3E65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2A5808E-A4CD-4FB8-9023-96EE8EDF3E65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A732E50-1AA8-4D09-AB8E-68B82F74330B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A732E50-1AA8-4D09-AB8E-68B82F74330B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A732E50-1AA8-4D09-AB8E-68B82F74330B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A732E50-1AA8-4D09-AB8E-68B82F74330B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4062DA0-6CA8-4E14-AABD-ECB321544270}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4062DA0-6CA8-4E14-AABD-ECB321544270}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4062DA0-6CA8-4E14-AABD-ECB321544270}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4062DA0-6CA8-4E14-AABD-ECB321544270}.Release|Any CPU.Build.0 = Release|Any CPU
+		{434C6897-FAE8-4773-A185-36F25669412B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{434C6897-FAE8-4773-A185-36F25669412B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{434C6897-FAE8-4773-A185-36F25669412B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{434C6897-FAE8-4773-A185-36F25669412B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFE86F7A-838B-4C31-81C4-6CF4D88D453F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFE86F7A-838B-4C31-81C4-6CF4D88D453F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFE86F7A-838B-4C31-81C4-6CF4D88D453F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFE86F7A-838B-4C31-81C4-6CF4D88D453F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFA46645-6274-4F4F-B509-0EBBA021C044}
+		EnterpriseLibraryConfigurationToolBinariesPathV6 = packages\EnterpriseLibrary.Common.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.Data.6.0.1304.0\lib\NET45
+	EndGlobalSection
+EndGlobal
